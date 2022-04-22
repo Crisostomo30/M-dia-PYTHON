@@ -1,4 +1,4 @@
-# M-dia-PYTHON
+# Media-PYTHON
 Cálculo de média em Python
 
 Faça um programa em Python que solicite a quantidade de alunos de uma turma.
